@@ -1,9 +1,9 @@
 # 💫 Hi 👋, I'm Rajeswara Reddy K
-**A passionate Machine Learning Engineer || Video Editor || Freelancer**
+**A passionate Software Engineer || Machine Learning Engineer || Freelancer**
 
 Email Me 👉 ✉️ **reddykrajeswar18@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Video Editing
+- 🔭 **I’m currently working on:** Agency where i
 - 🌱 **I’m currently learning:** Machine Learning 
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** reddykrajeswar18@gmail.com
