@@ -10,7 +10,7 @@
 
 ### `console.log("Currently building things that matter.")`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AIML)+%7C+Year+1+%E2%80%94+Tumkur%2C+India;SDE+Journey+%E2%80%94+MAANG+Internship+Target%3A+2027;Building+Rajeswar+Digitals+%7C+Aug8Agency;Websites+%2B+Ads+%2B+AI+Agents+for+Local+Businesses;Python+%7C+DSA+%7C+AWS+%7C+Adobe+Suite)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AIML)+%7C+Year+1+%E2%80%94+Bangalore%2C+India;SDE+Journey+%E2%80%94+MAANG+Internship+Target%3A+2027;Building+Rajeswar+Digitals+%7C+Aug8Agency;Websites+%2B+Ads+%2B+AI+Agents+for+Local+Businesses;Python+%7C+DSA+%7C+AWS+%7C+Adobe+Suite)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-I'm **Rajeswara Reddy K** — a 1st-year Computer Science (AIML) student from Tumkur, Karnataka, building real businesses while pursuing a MAANG SDE internship by 2027.
+I'm **Rajeswara Reddy K** — a 1st-year Computer Science (AIML) student from Bangalore, Karnataka, building real businesses while pursuing a MAANG SDE internship by 2028.
 
 I don't wait for opportunities. I build them.
 
@@ -26,7 +26,7 @@ I don't wait for opportunities. I build them.
 
 ## 🏢 What I'm Building
 
-### 🔵 [Rajeswar Digitals](mailto:reddykrajeswar18@gmail.com) — Full Business Growth System for Local Companies
+### 🔵 [Rajeswar Digitals](mailto:infoatrajeswardigitals@gmail.com) — Full Business Growth System for Local Companies
 > *Dentists · Construction Companies · Roofing Companies · Any Local Business*
 
 A complete, done-for-you digital growth system that replaces an entire marketing department:
@@ -43,7 +43,7 @@ A complete, done-for-you digital growth system that replaces an entire marketing
 
 ---
 
-### 🎬 [Aug8Agency](mailto:reddykrajeswar18@gmail.com) — Premium Video Editing Services
+### 🎬 [Aug8Agency](mailto:aug8agency@gmail.com) — Premium Video Editing Services
 > *For Creators, Brands, and Businesses*
 
 Professional video editing using **Adobe Premiere Pro · After Effects · Photoshop** — from raw footage to polished, platform-optimized content.
@@ -59,7 +59,7 @@ I build production-grade websites, deploy them on Vercel/AWS, and provide ongoin
 
 ## 🚀 The MAANG Mission
 
-I'm on a structured 2-year path to an SDE internship at **Amazon / Google / Microsoft** by **Year 3 (2027)**.
+I'm on a structured 2-year path to an SDE internship at **Amazon / Google / Microsoft** by **Year 3 (2028)**.
 
 ```
 Year 1  →  Python + DSA Foundations + Build 3 Real Projects
@@ -158,6 +158,16 @@ Year 3  →  Interview Season + 350 LeetCode + MAANG Applications
 <div align="center">
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=100&section=footer" />
+
+*"I don't just learn tech. I use it to build things that set my family free."*
 
 </div>
 
