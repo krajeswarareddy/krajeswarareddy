@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rajeswara%20Reddy%20K&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Builder.%20Engineer.%20Founder.&descSize=18&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%" />
+# Rajeswara Reddy K
+### Builder · Engineer · Founder
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(AIML)+%7C+Bangalore%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Running+3+businesses+while+learning+to+engineer;Rajeswar+Digitals+%7C+Aug8Agency+%7C+Web+Agency;MAANG+SDE+Internship+Target+%E2%86%92+2028;Python+%C2%B7+DSA+%C2%B7+AWS+%C2%B7+ML+%C2%B7+Adobe+Suite;Building+every+single+day.+No+exceptions.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(AIML)+%7C+Jain+University%2C+Bangalore;Running+3+businesses+while+learning+to+engineer;Python+%C2%B7+DSA+%C2%B7+AWS+%C2%B7+ML+%C2%B7+System+Design;MAANG+SDE+Internship+Target+%E2%86%92+2028;Building+every+single+day.+No+exceptions.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,74 +15,65 @@
 
 ---
 
-<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=krajeswarareddy&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&include_all_commits=true&count_private=true" />
-
-### `whoami` 👾
+## `whoami`
 
 ```yaml
-name: Rajeswara Reddy K
-location: Bangalore, India 🇮🇳
-degree: B.Tech CSE (AIML) · Year 1 of 4
-status: Builder by choice, Engineer by training
+name     : Rajeswara Reddy K
+location : Bangalore, India
+degree   : B.Tech CSE (AIML) · Jain University · Year 1 of 4
+status   : Builder by choice, Engineer by training
 
-running:
-  - Rajeswar Digitals   # full-funnel biz growth
-  - Aug8Agency          # premium video editing
-  - Web Agency          # build · host · manage
+businesses:
+  - Rajeswar Digitals   # full-funnel growth for local companies
+  - Aug8Agency          # premium video editing for creators & brands
+  - Web Agency          # build · host · manage · done for you
 
 currently_learning:
-  - DSA (LeetCode daily)
-  - Python + CS50P
-  - AWS Cloud Practitioner
+  - DSA (LeetCode daily — streak never breaks)
+  - Python + CS50P (Harvard)
+  - AWS Cloud Practitioner (CLF-C02)
 
-mission: MAANG SDE Internship → 2028
-open_to: Collabs, freelance, mentorship
+mission  : MAANG SDE Internship 2027 → PPO 2028
+open_to  : Collaborations · Freelance · Mentorship
 ```
 
-<br clear="right"/>
-
 ---
-
-<br/>
 
 ## 🏢 What I'm Running
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-#### 🔵 Rajeswar Digitals
-> Full business growth system for local companies
+### Rajeswar Digitals
+Full business growth system for local companies — dentists, construction, real estate, any local brand.
 
-*Dentists · Construction · Roofing · Any local brand*
+- **Video Ad Scripts** — written, directed, structured
+- **Meta Ad Creatives** — posters, carousels for FB/IG
+- **Campaign Management** — full Meta Ads strategy
+- **Custom Websites** — designed, hosted, live
+- **AI Voice Agents** — auto-calls every lead 24/7
 
-- 🎬 **Video Ad Scripts** — written, directed, structured
-- 🎨 **Meta Ad Creatives** — posters, carousels for FB/IG
-- 📱 **Campaign Management** — full Meta Ads strategy
-- 🌐 **Custom Websites** — designed, hosted, live
-- 🤖 **AI Voice Agents** — auto-calls every lead 24/7
-
-📩 [infoatrajeswardigitals@gmail.com](mailto:infoatrajeswardigitals@gmail.com)
+📩 infoatrajeswardigitals@gmail.com
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-#### 🎬 Aug8Agency
-> Premium video editing for creators & brands
+### Aug8Agency
+Premium video editing for creators and brands.
 
-Raw footage → scroll-stopping, platform-ready content
+Raw footage → scroll-stopping, platform-ready content.
 
 `Premiere Pro` · `After Effects` · `Photoshop`
 
-📩 [aug8agency@gmail.com](mailto:aug8agency@gmail.com)
+📩 aug8agency@gmail.com
 
 ---
 
-#### 🌐 Web Agency
-> Build · Host · Manage · Done for you
+### Web Agency
+Build · Host · Manage · Done for you.
 
-Production websites. Deployed on Vercel / AWS.
-Clients never touch a line of code.
+Production websites deployed on Vercel and AWS. Clients never touch a line of code.
 
 </td>
 </tr>
@@ -91,69 +81,82 @@ Clients never touch a line of code.
 
 ---
 
-<br/>
-
 ## 🚀 The SDE Mission
 
-> Structured path from Day 1 of college → MAANG intern by end of Year 3
+> Structured path from Day 1 of college → MAANG intern by Year 3 → PPO before placement season.
 
 ```
-📍 Year 1 (2025–26)  →  Python, CS50P, DSA foundations, 3 real projects
-🔧 Year 2 (2026–27)  →  System Design, REST APIs, AWS CLF, 200+ LeetCode
-🎯 Year 3 (2027–28)  →  350+ LeetCode · AWS SAA · MAANG applications → Offer ✓
+Year 1 (2025–26)  →  Python · CS50P · DSA foundations · 3 real projects deployed
+Year 2 (2026–27)  →  System Design · REST APIs · AWS CLF · 250+ LeetCode
+Year 3 (2027–28)  →  350+ LeetCode · AWS SAA · MAANG applications → Internship ✓
+Year 4 (2028–29)  →  PPO converted → ₹25–40 LPA offer signed
 ```
-
-<div align="center">
 
 | Metric | Current | Target |
 |:---|:---:|:---:|
-| ⚡ LeetCode Problems | `0` | `400+` |
-| 🏆 Codeforces Rating | `—` | `1400+` |
-| 🚀 Projects Deployed | `0` | `9` |
-| 🏅 Certifications | `0` | `8` |
-| 🐙 GitHub Streak | `Day 1` | `Daily · No breaks` |
-
-</div>
+| LeetCode Problems | `0` | `700+` |
+| Codeforces Rating | `—` | `1400+ (Specialist)` |
+| Projects Deployed | `0` | `9` |
+| Certifications | `0` | `8` |
+| GitHub Streak | `Day 1` | `Daily · No breaks` |
 
 ---
-
-<br/>
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+**Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,java,html,css,flask,fastapi,mysql,redis,aws,docker,git,tensorflow,pytorch,react&perline=8)](https://skillicons.dev)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-<br/>
+**Backend & Frameworks**
 
-[![Adobe Skills](https://skillicons.dev/icons?i=ps,pr,ae&perline=8)](https://skillicons.dev)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 
-</div>
+**Databases & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**ML & AI**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+**Creative**
+
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 
 ---
-
-<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=krajeswarareddy&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=krajeswarareddy&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&include_all_commits=true&count_private=true" />
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krajeswarareddy&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd&layout=compact&langs_count=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krajeswarareddy&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd&layout=compact&langs_count=8" />
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=krajeswarareddy&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a78bfa&fire=7c3aed&currStreakLabel=c4b5fd&sideLabels=a78bfa&dates=6b7280" />
+<img src="https://streak-stats.demolab.com?user=krajeswarareddy&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a78bfa&fire=7c3aed&currStreakLabel=c4b5fd&sideLabels=a78bfa&dates=6b7280" />
 
 </div>
 
 ---
 
-<br/>
-
-## 🏆 Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -163,9 +166,23 @@ Clients never touch a line of code.
 
 ---
 
-<br/>
+## 📌 Projects (Building in Order)
 
-## 🌐 Connect With Me
+| # | Project | Stack | Status | Live |
+|---|---|---|---|---|
+| F1 | Web Scraper | Python · BS4 · Pandas | 🔨 Building | — |
+| F2 | Password Manager | Python · AES-256 · SQLite | 📋 Planned | — |
+| F3 | Expense Tracker | Flask · Pandas · Matplotlib | 📋 Planned | — |
+| C1 | E-Commerce REST API | FastAPI · MySQL · Redis · JWT | 📋 Planned | — |
+| C2 | Spotify ML Predictor | scikit-learn · Streamlit | 📋 Planned | — |
+| C3 | URL Shortener + Analytics | Node · Redis · PostgreSQL · Docker | 📋 Planned | — |
+| C4 | NLP Chatbot with Voice | Python · NLTK · Google Speech | 📋 Planned | — |
+| A1 | Real-Time Chat App | React · WebSockets · Redis | 📋 Planned | — |
+| A2 | Fraud Detection System | XGBoost · Kafka · SageMaker | 📋 Planned | — |
+
+---
+
+## 🌐 Connect
 
 <div align="center">
 
@@ -178,16 +195,6 @@ Clients never touch a line of code.
 
 ---
 
-<br/>
-
 <div align="center">
-
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Contribution snake" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn" width="100%"/>
-
-<sub>Bangalore · Shipping every day · <a href="mailto:reddykrajeswar18@gmail.com">reddykrajeswar18@gmail.com</a></sub>
-
+<sub>Bangalore · Shipping every day · reddykrajeswar18@gmail.com</sub>
 </div>
